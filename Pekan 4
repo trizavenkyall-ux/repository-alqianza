@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Pekan 4 </title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+
+<body style= "background-color:Purple;">
+<h1 style= "text-align:center; font-size:100%; font- family: courier;"> Pertemuan Pekan ke 4 </h1>
+
+<a href="https://youtube.com/@trizavenkyalqianza.?si=ZxWIpsYkkJUMzKof">Triza Venky Alqianza</a>
+
+<table
+  <tr>
+    <th>Nama</th>
+    <th>NIM</th>
+    <th>Kelas</th>
+  </tr>
+  <tr>
+    <td>Triza Venky Alqianza</td>
+    <td>240631100087</td>
+    <td>4C</td>
+  </tr>
+  </table>
+
+</body>
+</html>
